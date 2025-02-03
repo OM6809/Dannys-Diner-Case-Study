@@ -1,5 +1,5 @@
 # Dannys-Diner-Case-Study
-🍣 Danny's Diner SQL Case Study
+🍣 Danny's Diner SQL Case Study https://8weeksqlchallenge.com/case-study-1/
 Welcome to my solution for Case Study #1: Danny's Diner, part of the 8-Week SQL Challenge. This case study dives into analyzing customer behavior at Danny's Diner to uncover actionable insights.
 
 📋 Overview
