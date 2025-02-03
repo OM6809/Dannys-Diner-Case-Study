@@ -8,7 +8,7 @@ In this repository, I have:
 Provided the SQL queries used to answer all the case study questions.
 Shared a detailed explanation of my thought process and steps for each query.
 Highlighted key insights and outputs derived from the analysis.
-For a detailed explanation of my approach, read my Medium article:
+For a detailed explanation of my approach,
 Insights from Danny's Diner: A SQL Case Study (8-Week SQL Challenge)
 
 📁 What’s in This Repository?
